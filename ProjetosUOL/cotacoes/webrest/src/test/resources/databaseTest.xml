@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <currency idt_currency="4" nam_currency="Euro" cod_investor="EUR" cod_unit="" cod_conversion="" ind_currency_converted="yes"/>
+    <currency idt_currency="5" nam_currency="Euro (R$)" cod_investor="EUR" cod_unit="" cod_conversion="BRL" ind_currency_converted="yes"/>
+    <currency idt_currency="18" nam_currency="Dólar Australiano" cod_investor="AUD" cod_unit="" cod_conversion="" ind_currency_converted="yes"/>
+    <currency idt_currency="84" nam_currency="Libra" cod_investor="LIB" cod_unit="" cod_conversion="" ind_currency_converted="yes"/>
+    <currency idt_currency="85" nam_currency="Peso" cod_investor="PES" cod_unit="" cod_conversion="" ind_currency_converted="yes"/>
+
+    <country cod_iso_country="32" nam_Country="Argentina" nam_country_english="ARGENTINA" abv2_iso_country="AR" abv3_iso_country="ARG" flg_postal_base="0" num_ddI_country="54"/>
+    <country cod_iso_country="36" nam_Country="Austrália" nam_country_english="AUSTRALIA" abv2_iso_country="AU" abv3_iso_country="AUS" flg_postal_base="0" num_ddI_country="61"/>
+    <country cod_iso_country="196" nam_Country="Chipre" nam_country_english="CYPRUS" abv2_iso_country="CY" abv3_iso_country="CYP" flg_postal_base="0" num_ddI_country="357"/>
+    <country cod_iso_country="703" nam_Country="Eslováquia" nam_country_english="SLOVAKIA (Slovak Republic)" abv2_iso_country="SK" abv3_iso_country="SVK" flg_postal_base="0" num_ddI_country="421"/>
+    <country cod_iso_country="705" nam_Country="Eslovênia" nam_country_english="SLOVENIA" abv2_iso_country="SI" abv3_iso_country="SVN" flg_postal_base="0" num_ddI_country="386"/>
+    <country cod_iso_country="724" nam_Country="Espanha" nam_country_english="SPAIN" abv2_iso_country="ES" abv3_iso_country="ESP" flg_postal_base="0" num_ddI_country="34"/>
+    <country cod_iso_country="246" nam_Country="Finlândia" nam_country_english="FINLAND" abv2_iso_country="FI" abv3_iso_country="FIN" flg_postal_base="0" num_ddI_country="358"/>
+    <country cod_iso_country="300" nam_Country="Grécia" nam_country_english="GREECE" abv2_iso_country="GR" abv3_iso_country="GRC" flg_postal_base="0" num_ddI_country="30"/>
+    <country cod_iso_country="528" nam_Country="Holanda" nam_country_english="NETHERLANDS" abv2_iso_country="NL" abv3_iso_country="NLD" flg_postal_base="0" num_ddI_country="31"/>
+    <country cod_iso_country="372" nam_Country="Irlanda" nam_country_english="IRELAND" abv2_iso_country="IE" abv3_iso_country="IRL" flg_postal_base="0" num_ddI_country="353"/>
+    <country cod_iso_country="442" nam_Country="Luxemburgo" nam_country_english="LUXEMBOURG" abv2_iso_country="LU" abv3_iso_country="LUX" flg_postal_base="0" num_ddI_country="351"/>
+    <country cod_iso_country="470" nam_Country="Malta" nam_country_english="MALTA" abv2_iso_country="MT" abv3_iso_country="MLT" flg_postal_base="0" num_ddI_country="356"/>
+    <country cod_iso_country="492" nam_Country="Mônaco" nam_country_english="MONACO" abv2_iso_country="MC" abv3_iso_country="MCO" flg_postal_base="0" num_ddI_country="377"/>
+    <country cod_iso_country="620" nam_Country="Portugal" nam_country_english="PORTUGAL" abv2_iso_country="PT" abv3_iso_country="PRT" flg_postal_base="0" num_ddI_country="351"/>
+    <country cod_iso_country="895" nam_Country="União Européia" nam_country_english="EUROPEAN UNION" abv2_iso_country="UE" abv3_iso_country="UEU" flg_postal_base="0" num_ddI_country="359"/>
+    <country cod_iso_country="100" nam_Country="Inglaterra" nam_country_english="ENG" abv2_iso_country="ENG" abv3_iso_country="ENG" flg_postal_base="0" num_ddI_country="1"/>
+
+    <currency_country idt_currency="4" Cod_Iso_Country="196"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="246"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="300"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="372"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="442"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="470"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="492"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="528"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="620"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="703"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="705"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="724"/>
+    <currency_country idt_currency="4" Cod_Iso_Country="895"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="196"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="246"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="300"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="372"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="442"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="470"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="492"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="528"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="620"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="703"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="705"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="724"/>
+    <currency_country idt_currency="5" Cod_Iso_Country="895"/>
+    <currency_country idt_currency="18" Cod_Iso_Country="36"/>
+    <currency_country idt_currency="84" Cod_Iso_Country="100"/>
+    <currency_country idt_currency="85" Cod_Iso_Country="32"/>
+
+    <currency_rate_intraday idt_currency_rate="20641300" idt_currency="4" num_value_bid="4.1111" num_value_ask="4.1111" num_max_bid="4.1111" num_min_bid="4.1111" num_var_bid="0.0008" num_varpct_bid="0.044" num_open_bid="0.0000" dat_currency_rate="2017-06-02 10:50:00"/>
+    <currency_rate_intraday idt_currency_rate="20641200" idt_currency="5" num_value_bid="4.2222" num_value_ask="4.2222" num_max_bid="4.2222" num_min_bid="4.2222" num_var_bid="0.0008" num_varpct_bid="0.033" num_open_bid="0.0000" dat_currency_rate="2017-06-02 10:50:00"/>
+
+    <currency_rate_intraday idt_currency_rate="20641152" idt_currency="18" num_value_bid="3.2295" num_value_ask="3.2310" num_max_bid="3.2295" num_min_bid="3.2295" num_var_bid="0.0008" num_varpct_bid="0.025" num_open_bid="0.0000" dat_currency_rate="2017-06-02 10:50:00"/>
+    <currency_rate_intraday idt_currency_rate="20641151" idt_currency="18" num_value_bid="3.2095" num_value_ask="3.2115" num_max_bid="3.2295" num_min_bid="3.2095" num_var_bid="-0.0187" num_varpct_bid="-0.579" num_open_bid="0.0000" dat_currency_rate="2017-06-02 10:45:00"/>
+    <currency_rate_intraday idt_currency_rate="20641150" idt_currency="18" num_value_bid="3.2074" num_value_ask="3.2086" num_max_bid="3.2295" num_min_bid="3.2074" num_var_bid="-0.0216" num_varpct_bid="-0.669" num_open_bid="0.0000" dat_currency_rate="2017-06-02 10:40:00"/>
+    <currency_rate_intraday idt_currency_rate="20641149" idt_currency="18" num_value_bid="3.2100" num_value_ask="3.2115" num_max_bid="3.2295" num_min_bid="3.2074" num_var_bid="-0.0187" num_varpct_bid="-0.579" num_open_bid="0.0000" dat_currency_rate="2017-06-02 10:35:00"/>
+    <currency_rate_intraday idt_currency_rate="20641148" idt_currency="18" num_value_bid="3.2122" num_value_ask="3.2147" num_max_bid="3.2295" num_min_bid="3.2074" num_var_bid="-0.0155" num_varpct_bid="-0.480" num_open_bid="0.0000" dat_currency_rate="2017-06-02 10:30:00"/>
+
+    <!--with interday and without intraday-->
+    <currency_rate_interday idt_currency_rate="21641184" idt_currency="84" num_value_bid="3.2295" num_value_ask="3.2310" num_max_bid="3.2295" num_min_bid="3.2295" num_var_bid="0.0008"  num_varpct_bid="0.025"  num_open_bid="0.0000" dat_currency_rate="2017-07-10 10:30:00"/>
+
+
+    <!--last week-->
+    <currency_rate_interday idt_currency_rate="21641152" idt_currency="18" num_value_bid="3.2295" num_value_ask="3.2310" num_max_bid="3.2295" num_min_bid="3.2295" num_var_bid="0.0008"  num_varpct_bid="0.025"  num_open_bid="0.0000" dat_currency_rate="dateReplace0"/>
+    <currency_rate_interday idt_currency_rate="21641150" idt_currency="18" num_value_bid="3.2095" num_value_ask="3.2115" num_max_bid="3.2295" num_min_bid="3.2095" num_var_bid="-0.0187" num_varpct_bid="-0.579" num_open_bid="0.0000" dat_currency_rate="dateReplace1"/>
+    <!--last month-->
+    <currency_rate_interday idt_currency_rate="21641148" idt_currency="18" num_value_bid="3.2074" num_value_ask="3.2086" num_max_bid="3.2295" num_min_bid="3.2074" num_var_bid="-0.0216" num_varpct_bid="-0.669" num_open_bid="0.0000" dat_currency_rate="dateReplace2"/>
+    <currency_rate_interday idt_currency_rate="21641146" idt_currency="18" num_value_bid="3.2100" num_value_ask="3.2115" num_max_bid="3.2295" num_min_bid="3.2074" num_var_bid="-0.0187" num_varpct_bid="-0.579" num_open_bid="0.0000" dat_currency_rate="dateReplace3"/>
+    <!--last 3 months-->
+    <currency_rate_interday idt_currency_rate="21641144" idt_currency="18" num_value_bid="3.2122" num_value_ask="3.2147" num_max_bid="3.2295" num_min_bid="3.2074" num_var_bid="-0.0155" num_varpct_bid="-0.480" num_open_bid="0.0000" dat_currency_rate="dateReplace4"/>
+    <currency_rate_interday idt_currency_rate="21641142" idt_currency="18" num_value_bid="3.2100" num_value_ask="3.2115" num_max_bid="3.2295" num_min_bid="3.2074" num_var_bid="-0.0187" num_varpct_bid="-0.579" num_open_bid="0.0000" dat_currency_rate="dateReplace5"/>
+    <!--last year-->
+    <currency_rate_interday idt_currency_rate="21641140" idt_currency="18" num_value_bid="3.2122" num_value_ask="3.2147" num_max_bid="3.2295" num_min_bid="3.2074" num_var_bid="-0.0155" num_varpct_bid="-0.480" num_open_bid="0.0000" dat_currency_rate="dateReplace6"/>
+    <currency_rate_interday idt_currency_rate="21641138" idt_currency="18" num_value_bid="3.2100" num_value_ask="3.2115" num_max_bid="3.2295" num_min_bid="3.2074" num_var_bid="-0.0187" num_varpct_bid="-0.579" num_open_bid="0.0000" dat_currency_rate="dateReplace7"/>
+    <!--more than a year-->
+    <currency_rate_interday idt_currency_rate="21641136" idt_currency="18" num_value_bid="3.2122" num_value_ask="3.2147" num_max_bid="3.2295" num_min_bid="3.2074" num_var_bid="-0.0155" num_varpct_bid="-0.480" num_open_bid="0.0000" dat_currency_rate="dateReplace8"/>
+
+    <exchange idt_exchange="1" nam_exchange="BOVESPA" abv_exchange="SAO"/>
+    <exchange idt_exchange="2" nam_exchange="Bolsa de Valores de Lima" abv_exchange="LMA"/>
+    <exchange idt_exchange="3" nam_exchange="Bolsa de Valores de Praga" abv_exchange="PRA"/>
+    <exchange idt_exchange="4" nam_exchange="Bolsa de Valores de Santiago" abv_exchange="SGO"/>
+    <exchange idt_exchange="9" nam_exchange="COMMODITIES" abv_exchange="comm"/>
+    <exchange idt_exchange="10" nam_exchange="INFLACAO" abv_exchange="infla"/>
+    <exchange idt_exchange="11" nam_exchange="INDICADORES" abv_exchange="indic"/>
+
+
+    <!--index-->
+    <exchange_asset idt_exchange_asset="10" idt_exchange="1" nam_exchange_asset="INDX IND" abv_exchange_asset=".INDX" ind_asset_type="I"/>
+    <exchange_asset idt_exchange_asset="11" idt_exchange="2" nam_exchange_asset="Lima General Inx" abv_exchange_asset=".IGRA" ind_asset_type="I"/>
+    <exchange_asset idt_exchange_asset="12" idt_exchange="3" nam_exchange_asset="PX-PRAGUE SE IND" abv_exchange_asset=".PX" ind_asset_type="I"/>
+    <exchange_asset idt_exchange_asset="13" idt_exchange="4" nam_exchange_asset="SASE Gral Index" abv_exchange_asset=".IGPA" ind_asset_type="I"/>
+    <!--asset-->
+    <exchange_asset idt_exchange_asset="18" idt_exchange="1" nam_exchange_asset="ABC BRASIL PN   " abv_exchange_asset="ABCB4.SA" ind_asset_type="S"/>
+    <exchange_asset idt_exchange_asset="19" idt_exchange="1" nam_exchange_asset="ABC BRASIL ON   " abv_exchange_asset="ABCB3.SA" ind_asset_type="S"/>
+    <exchange_asset idt_exchange_asset="20" idt_exchange="1" nam_exchange_asset="ABNOTE ON" abv_exchange_asset="ABNB3.SA" ind_asset_type="S"/>
+    <exchange_asset idt_exchange_asset="232" idt_exchange="1" nam_exchange_asset="COTEMINAS PN    " abv_exchange_asset="CTNM4.SA" ind_asset_type="S"/>
+    <exchange_asset idt_exchange_asset="233" idt_exchange="1" nam_exchange_asset="COTEMINAS ON    " abv_exchange_asset="CTNM3.SA" ind_asset_type="S"/>
+    <exchange_asset idt_exchange_asset="645" idt_exchange="1" nam_exchange_asset="TELE NORT CL PN " abv_exchange_asset="TNCP4.SA" ind_asset_type="S"/>
+    <exchange_asset idt_exchange_asset="699" idt_exchange="1" nam_exchange_asset="VARIG TRANSP ON" abv_exchange_asset="VPTA3.SA" ind_asset_type="S"/>
+    <exchange_asset idt_exchange_asset="84" idt_exchange="1" nam_exchange_asset="VARIG TRANSP ON 2" abv_exchange_asset="VPTA3.SA2" ind_asset_type="S"/>
+    <exchange_asset idt_exchange_asset="85" idt_exchange="1" nam_exchange_asset="VARIG TRANSP ON 3" abv_exchange_asset="VPTA3.SA3" ind_asset_type="S"/>
+    <exchange_asset idt_exchange_asset="718" idt_exchange="1" nam_exchange_asset="FIP BRASCAN CI  " abv_exchange_asset="BRCP11.SA" ind_asset_type="S"/>
+    <exchange_asset idt_exchange_asset="1205" idt_exchange="1" nam_exchange_asset="FII BB CORP CI  " abv_exchange_asset="BBRC11.SA" ind_asset_type="S"/>
+    <exchange_asset idt_exchange_asset="1027" idt_exchange="1" nam_exchange_asset="ISHARES BOVA CI " abv_exchange_asset="BOVA11.SA" ind_asset_type="S"/>
+    
+    <!-- insercao leandro -->
+    <exchange_asset idt_exchange_asset="1313" idt_exchange="1" nam_exchange_asset="AFLUENTE PNA" abv_exchange_asset="AFLU5.SA" ind_asset_type="S"/>
+    
+    
+    <!--commoddities-->
+    <exchange_asset idt_exchange_asset="1163" idt_exchange="9" nam_exchange_asset="OURO" abv_exchange_asset="XAU=X" ind_asset_type="C" />
+    <exchange_asset idt_exchange_asset="1164" idt_exchange="9" nam_exchange_asset="PRATA" abv_exchange_asset="XAG=X" ind_asset_type="C" />
+    <exchange_asset idt_exchange_asset="1165" idt_exchange="9" nam_exchange_asset="PLATINA" abv_exchange_asset="XPT=X" ind_asset_type="C" />
+    <exchange_asset idt_exchange_asset="1166" idt_exchange="9" nam_exchange_asset="PALADIO" abv_exchange_asset="XPD=X" ind_asset_type="C" />
+    <exchange_asset idt_exchange_asset="1167" idt_exchange="9" nam_exchange_asset="PETROLEO" abv_exchange_asset="BRT-" ind_asset_type="C" />
+    <!--indicators-->
+    <exchange_asset idt_exchange_asset="1168" idt_exchange="10" nam_exchange_asset="SELIC" abv_exchange_asset="BRSELIC=RR" ind_asset_type="N"/>
+    <exchange_asset idt_exchange_asset="1169" idt_exchange="10" nam_exchange_asset="GLOBAL 40" abv_exchange_asset="BRAGLB40=RR" ind_asset_type="N"/>
+    <exchange_asset idt_exchange_asset="1170" idt_exchange="10" nam_exchange_asset="TR" abv_exchange_asset="BRTR=BRCB" ind_asset_type="N"/>
+    <exchange_asset idt_exchange_asset="1171" idt_exchange="10" nam_exchange_asset="CDI" abv_exchange_asset="BRCDICETIP=RR" ind_asset_type="N"/>
+    <!--inflation-->
+    <exchange_asset idt_exchange_asset="1172" idt_exchange="11" nam_exchange_asset="IPC" abv_exchange_asset="BRIPC=RR" ind_asset_type="F"/>
+    <exchange_asset idt_exchange_asset="1173" idt_exchange="11" nam_exchange_asset="IGPDI" abv_exchange_asset="BRIGPDI=RR" ind_asset_type="F"/>
+    <exchange_asset idt_exchange_asset="1174" idt_exchange="11" nam_exchange_asset="IGPM" abv_exchange_asset="BRIGPM=RR" ind_asset_type="F"/>
+    <exchange_asset idt_exchange_asset="1175" idt_exchange="11" nam_exchange_asset="IPCA" abv_exchange_asset="BRIPCA=RR" ind_asset_type="F"/>
+    <exchange_asset idt_exchange_asset="1176" idt_exchange="11" nam_exchange_asset="INPC" abv_exchange_asset="BRINPC=RR" ind_asset_type="F"/>
+
+    <company idt_company="1" nam_company="Banco ABC Brasil SA" nam_company_resume="Banco ABC Brasil"/>
+    <company idt_company="115" nam_company="Companhia de Tecidos Norte de Minas - COTEMINAS" nam_company_resume="COTEMINAS"/>
+    <company idt_company="353" nam_company="Tele Norte Celular Participacoes SA" nam_company_resume="Tele Norte"/>
+    <company idt_company="379" nam_company="VARIG PARTICIPACOES EM TRANSPORTES AEREOS SA" nam_company_resume="Varig Transp"/>
+    <company idt_company="380" nam_company="FIP BRASCAN CI" nam_company_resume="FIP BRASCAN CI"/>
+    <company idt_company="381" nam_company="FII BB CORP CI" nam_company_resume="FII BB CORP CI"/>
+    <company idt_company="382" nam_company="ISHARES BOVA CI" nam_company_resume="ISHARES BOVA CI"/>
+
+    <stock_asset idt_exchange_asset="18" idt_company="1"/>
+    <stock_asset idt_exchange_asset="19" idt_company="1"/>
+    <stock_asset idt_exchange_asset="20" idt_company="1"/>
+    <stock_asset idt_exchange_asset="232" idt_company="115"/>
+    <stock_asset idt_exchange_asset="233" idt_company="115"/>
+    <stock_asset idt_exchange_asset="645" idt_company="353"/>
+    <stock_asset idt_exchange_asset="699" idt_company="379"/>
+    <stock_asset idt_exchange_asset="84" idt_company="379"/>
+    <stock_asset idt_exchange_asset="85" idt_company="379"/>
+    <stock_asset idt_exchange_asset="718" idt_company="380"/>
+    <stock_asset idt_exchange_asset="1205" idt_company="381"/>
+    <stock_asset idt_exchange_asset="1027" idt_company="382"/>
+
+
+
+
+
+    <!--intraday asset, datas dinâmicas para testar os serviços de Top Ações-->
+    <asset_intraday idt_asset_intraday="111111111" num_price="1.00" idt_exchange_asset="18" num_high="5.69" num_low="5.69" num_open="5.69" num_volume="200.1" num_close="5.78" num_bid="5.55" num_ask="5.7" num_change="-0.09" num_pct_change="-1.00" dat_last_update="dateTimeReplace0"/>
+    <asset_intraday idt_asset_intraday="111111110" num_price="1.00" idt_exchange_asset="18" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="200.5" num_close="5.78" num_bid="5.56" num_ask="5.78" num_change="0.0" num_pct_change="-1.50" dat_last_update="dateTimeReplace1"/>
+    <asset_intraday idt_asset_intraday="222222222" num_price="2.00" idt_exchange_asset="19" num_high="5.69" num_low="5.6" num_open="5.6" num_volume="100.5" num_close="5.7" num_bid="5.6" num_ask="5.69" num_change="-0.01" num_pct_change="-2.50" dat_last_update="dateTimeReplace0"/>
+    <asset_intraday idt_asset_intraday="222222221" num_price="2.00" idt_exchange_asset="19" num_high="5.69" num_low="5.6" num_open="5.6" num_volume="100.1" num_close="5.7" num_bid="5.15" num_ask="5.65" num_change="-0.1" num_pct_change="-2.00" dat_last_update="dateTimeReplace1"/>
+    <asset_intraday idt_asset_intraday="333333333" num_price="3.00" idt_exchange_asset="233" num_high="5.69" num_low="5.6" num_open="5.6" num_volume="500.1" num_close="5.7" num_bid="5.15" num_ask="5.65" num_change="-0.1" num_pct_change="-3.00" dat_last_update="dateTimeReplace0"/>
+    <asset_intraday idt_asset_intraday="333333332" num_price="3.00" idt_exchange_asset="233" num_high="5.69" num_low="5.6" num_open="5.6" num_volume="500.5" num_close="5.7" num_bid="5.3" num_ask="5.68" num_change="-0.02" num_pct_change="-3.50" dat_last_update="dateTimeReplace1"/>
+    <asset_intraday idt_asset_intraday="444444444" num_price="4.00" idt_exchange_asset="645" num_high="5.69" num_low="5.69" num_open="5.69" num_volume="300.5" num_close="5.78" num_bid="5.55" num_ask="5.7" num_change="-0.09" num_pct_change="3.50" dat_last_update="dateTimeReplace0"/>
+    <asset_intraday idt_asset_intraday="444444443" num_price="4.00" idt_exchange_asset="645" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="300.1" num_close="5.78" num_bid="5.56" num_ask="5.78" num_change="0.0" num_pct_change="3.00" dat_last_update="dateTimeReplace1"/>
+    <asset_intraday idt_asset_intraday="555555555" num_price="5.00" idt_exchange_asset="699" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="400.1" num_close="5.78" num_bid="5.56" num_ask="5.78" num_change="0.0" num_pct_change="2.00" dat_last_update="dateTimeReplace0"/>
+    <asset_intraday idt_asset_intraday="555555554" num_price="5.00" idt_exchange_asset="699" num_high="5.69" num_low="5.6" num_open="5.6" num_volume="400.5" num_close="5.7" num_bid="5.6" num_ask="5.69" num_change="-0.01" num_pct_change="2.50" dat_last_update="dateTimeReplace1"/>
+    <asset_intraday idt_asset_intraday="666666666" num_price="6.00" idt_exchange_asset="20" num_high="5.69" num_low="5.6" num_open="5.6" num_volume="600.5" num_close="5.7" num_bid="5.15" num_ask="5.65" num_change="-0.1" num_pct_change="1.50" dat_last_update="dateTimeReplace0"/>
+    <asset_intraday idt_asset_intraday="666666665" num_price="6.00" idt_exchange_asset="20" num_high="5.69" num_low="5.6" num_open="5.6" num_volume="600.1" num_close="5.7" num_bid="5.3" num_ask="5.68" num_change="-0.02" num_pct_change="1.00" dat_last_update="dateTimeReplace1"/>
+    <!--intraday asset-->
+    <asset_intraday idt_asset_intraday="160825331" num_price="5.69" idt_exchange_asset="232" num_high="5.69" num_low="5.69" num_open="5.69" num_volume="100.0" num_close="5.78" num_bid="5.55" num_ask="5.7" num_change="-0.09" num_pct_change="-1.56" dat_last_update="2017-06-07 10:00:00.0"/>
+    <asset_intraday idt_asset_intraday="160830525" num_price="5.78" idt_exchange_asset="232" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="5100.0" num_close="5.78" num_bid="5.56" num_ask="5.78" num_change="0.0" num_pct_change="0.0" dat_last_update="2017-06-07 10:40:00.0"/>
+    <asset_intraday idt_asset_intraday="160830767" num_price="5.78" idt_exchange_asset="232" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="10100.0" num_close="5.78" num_bid="5.56" num_ask="5.78" num_change="0.0" num_pct_change="0.0" dat_last_update="2017-06-07 10:43:00.0"/>
+    <asset_intraday idt_asset_intraday="161079383" num_price="5.69" idt_exchange_asset="232" num_high="5.69" num_low="5.6" num_open="5.6" num_volume="14000.0" num_close="5.7" num_bid="5.6" num_ask="5.69" num_change="-0.01" num_pct_change="-0.18" dat_last_update="2017-06-13 11:44:00.0"/>
+    <asset_intraday idt_asset_intraday="161101078" num_price="5.6" idt_exchange_asset="232" num_high="5.69" num_low="5.6" num_open="5.6" num_volume="14100.0" num_close="5.7" num_bid="5.15" num_ask="5.65" num_change="-0.1" num_pct_change="-1.75" dat_last_update="2017-06-13 14:28:00.0"/>
+    <asset_intraday idt_asset_intraday="161121867" num_price="5.68" idt_exchange_asset="232" num_high="5.69" num_low="5.6" num_open="5.6" num_volume="19100.0" num_close="5.7" num_bid="5.3" num_ask="5.68" num_change="-0.02" num_pct_change="-0.35" dat_last_update="2017-06-13 17:05:00.0"/>
+    <asset_intraday idt_asset_intraday="100121867" num_price="5.68" idt_exchange_asset="1027" num_high="5.69" num_low="5.6" num_open="5.6" num_volume="19100.0" num_close="5.7" num_bid="5.3" num_ask="5.68" num_change="-0.02" num_pct_change="-0.35" dat_last_update="today"/>
+    <!--intraday index-->
+    <asset_intraday idt_asset_intraday="161006641" num_price="12561.68" idt_exchange_asset="10" num_high="12567.132" num_low="12561.68" num_open="12567.132" num_volume="0.0" num_close="12567.022" num_bid="0.0" num_ask="0.0" num_change="-5.342" num_pct_change="-0.04" dat_last_update="2017-06-12 10:00:00.0"/>
+    <asset_intraday idt_asset_intraday="161122047" num_price="12527.167" idt_exchange_asset="10" num_high="12542.208" num_low="12465.031" num_open="12485.535" num_volume="0.0" num_close="12485.77" num_bid="0.0" num_ask="0.0" num_change="41.398" num_pct_change="0.33" dat_last_update="2017-06-13 17:12:00.0"/>
+    <asset_intraday idt_asset_intraday="161122076" num_price="12527.167" idt_exchange_asset="10" num_high="12542.208" num_low="12465.031" num_open="12485.535" num_volume="0.0" num_close="12485.77" num_bid="0.0" num_ask="0.0" num_change="41.398" num_pct_change="0.33" dat_last_update="2017-06-13 17:13:00.0"/>
+    <asset_intraday idt_asset_intraday="161122091" num_price="12527.167" idt_exchange_asset="10" num_high="12542.208" num_low="12465.031" num_open="12485.535" num_volume="0.0" num_close="12485.77" num_bid="0.0" num_ask="0.0" num_change="41.398" num_pct_change="0.33" dat_last_update="2017-06-13 17:14:00.0"/>
+    <asset_intraday idt_asset_intraday="161122106" num_price="12527.167" idt_exchange_asset="10" num_high="12542.208" num_low="12465.031" num_open="12485.535" num_volume="0.0" num_close="12485.77" num_bid="0.0" num_ask="0.0" num_change="41.398" num_pct_change="0.33" dat_last_update="2017-06-13 17:15:00.0"/>
+    <asset_intraday idt_asset_intraday="161122130" num_price="12527.167" idt_exchange_asset="10" num_high="12542.208" num_low="12465.031" num_open="12485.535" num_volume="0.0" num_close="12485.77" num_bid="0.0" num_ask="0.0" num_change="41.398" num_pct_change="0.33" dat_last_update="2017-06-13 17:21:00.0"/>
+    <!--intraday commoddities-->
+    <asset_intraday idt_asset_intraday="145884078" num_price="0.0" idt_exchange_asset="1163" num_high="1266.97" num_low="1266.26" num_open="0.0" num_volume="0.0" num_close="1265.35" num_bid="1266.64" num_ask="1266.82" num_change="-0.06" num_pct_change="0.0" dat_last_update="2017-06-13 20:20:19.0"/>
+    <asset_intraday idt_asset_intraday="145884079" num_price="0.0" idt_exchange_asset="1163" num_high="16.88" num_low="16.838" num_open="0.0" num_volume="0.0" num_close="16.86" num_bid="16.849" num_ask="16.855" num_change="0.01" num_pct_change="0.06" dat_last_update="2017-06-13 20:25:19.0"/>
+    <asset_intraday idt_asset_intraday="145884080" num_price="0.0" idt_exchange_asset="1163" num_high="927.3" num_low="927.0" num_open="0.0" num_volume="0.0" num_close="923.5" num_bid="924.9" num_ask="929.1" num_change="0.1" num_pct_change="0.01" dat_last_update="2017-06-13 20:30:19.0"/>
+    <asset_intraday idt_asset_intraday="145884081" num_price="0.0" idt_exchange_asset="1163" num_high="883.5" num_low="886.5" num_open="0.0" num_volume="0.0" num_close="882.5" num_bid="882.6" num_ask="888.6" num_change="-4.9" num_pct_change="-0.55" dat_last_update="2017-06-13 20:35:19.0"/>
+    <asset_intraday idt_asset_intraday="145884082" num_price="0.0" idt_exchange_asset="1163" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="46.39" num_ask="46.41" num_change="0.0" num_pct_change="0.0" dat_last_update="2017-06-13 20:38:19.0"/>
+    <!--intraday indicators-->
+    <asset_intraday idt_asset_intraday="145884076" num_price="112.321" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="112.321" num_ask="112.917" num_change="0.0" num_pct_change="112.32" dat_last_update="2017-06-14 11:05:44.0"/>
+    <asset_intraday idt_asset_intraday="145884077" num_price="112.321" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="112.321" num_ask="112.917" num_change="0.0" num_pct_change="112.32" dat_last_update="2017-06-14 11:10:44.0"/><asset_intraday idt_asset_intraday="145884083" num_price="112.321" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="112.321" num_ask="112.917" num_change="0.0" num_pct_change="112.32" dat_last_update="2017-06-14 11:14:44.0"/>
+    <asset_intraday idt_asset_intraday="145884084" num_price="0.042" idt_exchange_asset="1170" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="0.042" num_ask="0.0" num_change="0.0" num_pct_change="0.04" dat_last_update="2017-06-14 11:14:41.0"/>
+    <asset_intraday idt_asset_intraday="145884085" num_price="10.14" idt_exchange_asset="1171" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.14" dat_last_update="2017-06-14 11:14:44.0"/>
+    <asset_intraday idt_asset_intraday="145884086" num_price="10.15" idt_exchange_asset="1171" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.15" dat_last_update="2017-06-14 11:15:49.0"/>
+    <asset_intraday idt_asset_intraday="145884087" num_price="10.16" idt_exchange_asset="1171" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.16" dat_last_update="2017-06-14 11:16:54.0"/>
+    <asset_intraday idt_asset_intraday="145884088" num_price="10.17" idt_exchange_asset="1171" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.17" dat_last_update="2017-06-14 11:17:42.0"/>
+    <asset_intraday idt_asset_intraday="145884089" num_price="10.18" idt_exchange_asset="1171" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.18" dat_last_update="2017-06-14 11:18:34.0"/>
+    <asset_intraday idt_asset_intraday="145884090" num_price="10.19" idt_exchange_asset="1171" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.19" dat_last_update="2017-06-14 11:19:24.0"/>
+    <!--intraday inflation-->
+    <asset_intraday idt_asset_intraday="161122144" num_price="1002.10" idt_exchange_asset="1172" num_high="1002.2" num_low="1001.32" num_open="1001.32" num_volume="25607.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="0.86" num_pct_change="0.09" dat_last_update="2017-06-13 08:00:00.0"/>
+    <asset_intraday idt_asset_intraday="161122145" num_price="1002.16" idt_exchange_asset="1172" num_high="1002.2" num_low="1001.32" num_open="1001.32" num_volume="25607.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="0.86" num_pct_change="0.09" dat_last_update="2017-06-14 04:00:00.0"/>
+    <asset_intraday idt_asset_intraday="161122147" num_price="1002.57" idt_exchange_asset="1172" num_high="1002.57" num_low="1001.32" num_open="1001.32" num_volume="26416.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="1.27" num_pct_change="0.13" dat_last_update="2017-06-14 04:01:00.0"/>
+    <asset_intraday idt_asset_intraday="161122149" num_price="1002.84" idt_exchange_asset="1172" num_high="1002.84" num_low="1001.32" num_open="1001.32" num_volume="28831.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="1.54" num_pct_change="0.15" dat_last_update="2017-06-14 04:02:00.0"/>
+    <asset_intraday idt_asset_intraday="161122151" num_price="1003.9" idt_exchange_asset="1172" num_high="1003.9" num_low="1001.32" num_open="1001.32" num_volume="38811.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="2.6" num_pct_change="0.26" dat_last_update="2017-06-14 04:05:00.0"/>
+    <asset_intraday idt_asset_intraday="161122153" num_price="1004.13" idt_exchange_asset="1172" num_high="1004.57" num_low="1001.32" num_open="1001.32" num_volume="69452.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="2.83" num_pct_change="0.28" dat_last_update="2017-06-14 04:06:00.0"/>
+
+    <!-- with interday asset and without intraday asset-->
+    <asset_interday idt_asset_interday="123456784" num_price="5.69" idt_exchange_asset="84" num_high="5.69" num_low="5.69" num_open="5.69" num_volume="100.0" num_close="5.78" num_bid="5.55" num_ask="5.7" num_change="-0.09" num_pct_change="-1.56" dat_interday="2017-07-10 10:30:00"/>
+
+
+    <!--interday asset-->
+    <!--last week-->
+    <asset_interday idt_asset_interday="123456789" num_price="5.69" idt_exchange_asset="232" num_high="5.69" num_low="5.69" num_open="5.69" num_volume="100.0" num_close="5.78" num_bid="5.55" num_ask="5.7" num_change="-0.09" num_pct_change="-1.56" dat_interday="dateReplace0"/>
+    <asset_interday idt_asset_interday="123456787" num_price="5.78" idt_exchange_asset="232" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="5100.0" num_close="5.78" num_bid="5.56" num_ask="5.78" num_change="0.0" num_pct_change="0.0" dat_interday="dateReplace1"/>
+    <asset_interday idt_asset_interday="100456787" num_price="5.78" idt_exchange_asset="1027" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="5100.0" num_close="5.78" num_bid="5.56" num_ask="5.78" num_change="0.0" num_pct_change="0.0" dat_interday="dateReplace1"/>
+    <!--last month-->
+    <asset_interday idt_asset_interday="123456785" num_price="5.78" idt_exchange_asset="232" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="10100.0" num_close="5.78" num_bid="5.56" num_ask="5.78" num_change="0.0" num_pct_change="0.0" dat_interday="dateReplace2"/>
+    <asset_interday idt_asset_interday="123456783" num_price="5.78" idt_exchange_asset="232" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="15100.0" num_close="5.78" num_bid="5.65" num_ask="5.78" num_change="0.0" num_pct_change="0.0" dat_interday="dateReplace3"/>
+    <asset_interday idt_asset_interday="101456787" num_price="5.78" idt_exchange_asset="1027" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="5100.0" num_close="5.78" num_bid="5.56" num_ask="5.78" num_change="0.0" num_pct_change="0.0" dat_interday="dateReplace3"/>
+    <!--last 3 months-->
+    <asset_interday idt_asset_interday="123456781" num_price="5.78" idt_exchange_asset="232" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="15200.0" num_close="5.78" num_bid="5.66" num_ask="5.79" num_change="0.0" num_pct_change="0.0" dat_interday="dateReplace4"/>
+    <asset_interday idt_asset_interday="123456779" num_price="5.84" idt_exchange_asset="232" num_high="5.84" num_low="5.69" num_open="5.69" num_volume="24100.0" num_close="5.78" num_bid="5.66" num_ask="5.85" num_change="0.06" num_pct_change="1.04" dat_interday="dateReplace5"/>
+    <asset_interday idt_asset_interday="102456787" num_price="5.78" idt_exchange_asset="1027" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="5100.0" num_close="5.78" num_bid="5.56" num_ask="5.78" num_change="0.0" num_pct_change="0.0" dat_interday="dateReplace5"/>
+    <!--last year-->
+    <asset_interday idt_asset_interday="123456777" num_price="5.88" idt_exchange_asset="232" num_high="5.88" num_low="5.69" num_open="5.69" num_volume="31200.0" num_close="5.78" num_bid="5.7" num_ask="5.85" num_change="0.1" num_pct_change="1.73" dat_interday="dateReplace6"/>
+    <asset_interday idt_asset_interday="123456775" num_price="5.7" idt_exchange_asset="232" num_high="5.88" num_low="5.69" num_open="5.69" num_volume="31700.0" num_close="5.78" num_bid="5.56" num_ask="5.8" num_change="-0.08" num_pct_change="-1.38" dat_interday="dateReplace7"/>
+    <asset_interday idt_asset_interday="123456600" num_price="10.18" idt_exchange_asset="1205" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.18" dat_interday="dateReplace6"/>
+    <asset_interday idt_asset_interday="103456787" num_price="5.78" idt_exchange_asset="1027" num_high="5.78" num_low="5.69" num_open="5.69" num_volume="5100.0" num_close="5.78" num_bid="5.56" num_ask="5.78" num_change="0.0" num_pct_change="0.0" dat_interday="dateReplace7"/>
+    
+    <!-- leandro novo item um ano -->
+    <asset_interday idt_asset_interday="009387732" num_price="2.25" idt_exchange_asset="1313" num_high="2.99" num_low="2.03" num_open="2.50" num_volume="2500.0" num_close="2.41" num_bid="2.23" num_ask="2.41" num_change="1.0" num_pct_change="1.0" dat_interday="dateReplace7"/>
+    
+    <!--more than a year-->
+    <asset_interday idt_asset_interday="123456773" num_price="5.67" idt_exchange_asset="232" num_high="5.67" num_low="5.6" num_open="5.6" num_volume="8000.0" num_close="5.7" num_bid="5.83" num_ask="5.83" num_change="-0.03" num_pct_change="-0.53" dat_interday="dateReplace8"/>
+    <asset_interday idt_asset_interday="123456601" num_price="10.18" idt_exchange_asset="718" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.18" dat_interday="dateReplace8"/>
+    <!--interday index-->
+    <!--last week-->
+    <asset_interday idt_asset_interday="123456769" num_price="12561.68" idt_exchange_asset="10" num_high="12567.132" num_low="12561.68" num_open="12567.132" num_volume="0.0" num_close="12567.022" num_bid="0.0" num_ask="0.0" num_change="-5.342" num_pct_change="-0.04" dat_interday="dateReplace0"/>
+    <asset_interday idt_asset_interday="123456767" num_price="12558.717" idt_exchange_asset="10" num_high="12567.132" num_low="12558.717" num_open="12567.132" num_volume="0.0" num_close="12567.022" num_bid="0.0" num_ask="0.0" num_change="-8.305" num_pct_change="-0.07" dat_interday="dateReplace1"/>
+    <!--last month-->
+    <asset_interday idt_asset_interday="123456765" num_price="12562.851" idt_exchange_asset="10" num_high="12567.132" num_low="12558.717" num_open="12567.132" num_volume="0.0" num_close="12567.022" num_bid="0.0" num_ask="0.0" num_change="-4.171" num_pct_change="-0.03" dat_interday="dateReplace2"/>
+    <asset_interday idt_asset_interday="123456763" num_price="12554.574" idt_exchange_asset="10" num_high="12567.132" num_low="12544.605" num_open="12567.132" num_volume="0.0" num_close="12567.022" num_bid="0.0" num_ask="0.0" num_change="-12.448" num_pct_change="-0.1" dat_interday="dateReplace3"/>
+    <!--last 3 months-->
+    <asset_interday idt_asset_interday="123456761" num_price="12565.147" idt_exchange_asset="10" num_high="12567.132" num_low="12544.605" num_open="12567.132" num_volume="0.0" num_close="12567.022" num_bid="0.0" num_ask="0.0" num_change="-1.875" num_pct_change="-0.01" dat_interday="dateReplace4"/>
+    <asset_interday idt_asset_interday="123456759" num_price="12527.167" idt_exchange_asset="10" num_high="12542.208" num_low="12465.031" num_open="12485.535" num_volume="0.0" num_close="12485.77" num_bid="0.0" num_ask="0.0" num_change="41.398" num_pct_change="0.33" dat_interday="dateReplace5"/>
+    <!--last year-->
+    <asset_interday idt_asset_interday="123456757" num_price="12527.167" idt_exchange_asset="10" num_high="12542.208" num_low="12465.031" num_open="12485.535" num_volume="0.0" num_close="12485.77" num_bid="0.0" num_ask="0.0" num_change="41.398" num_pct_change="0.33" dat_interday="dateReplace6"/>
+    <asset_interday idt_asset_interday="123456755" num_price="12527.167" idt_exchange_asset="10" num_high="12542.208" num_low="12465.031" num_open="12485.535" num_volume="0.0" num_close="12485.77" num_bid="0.0" num_ask="0.0" num_change="41.398" num_pct_change="0.33" dat_interday="dateReplace7"/>
+    <!--more than a year-->
+    <asset_interday idt_asset_interday="123456753" num_price="12527.167" idt_exchange_asset="10" num_high="12542.208" num_low="12465.031" num_open="12485.535" num_volume="0.0" num_close="12485.77" num_bid="0.0" num_ask="0.0" num_change="41.398" num_pct_change="0.33" dat_interday="dateReplace8"/>
+    <!--interday commodities-->
+    <!--last week-->
+    <asset_interday idt_asset_interday="123456749" num_price="0.0" idt_exchange_asset="1163" num_high="1266.97" num_low="1266.26" num_open="0.0" num_volume="0.0" num_close="1265.35" num_bid="1266.64" num_ask="1266.82" num_change="-0.06" num_pct_change="0.0" dat_interday="dateReplace0"/>
+    <asset_interday idt_asset_interday="123456747" num_price="0.0" idt_exchange_asset="1163" num_high="16.88" num_low="16.838" num_open="0.0" num_volume="0.0" num_close="16.86" num_bid="16.849" num_ask="16.855" num_change="0.01" num_pct_change="0.06" dat_interday="dateReplace1"/>
+    <!--last month-->
+    <asset_interday idt_asset_interday="123456745" num_price="0.0" idt_exchange_asset="1163" num_high="927.3" num_low="927.0" num_open="0.0" num_volume="0.0" num_close="923.5" num_bid="924.9" num_ask="929.1" num_change="0.1" num_pct_change="0.01" dat_interday="dateReplace2"/>
+    <asset_interday idt_asset_interday="123456743" num_price="0.0" idt_exchange_asset="1163" num_high="883.5" num_low="886.5" num_open="0.0" num_volume="0.0" num_close="882.5" num_bid="882.6" num_ask="888.6" num_change="-4.9" num_pct_change="-0.55" dat_interday="dateReplace3"/>
+    <!--last 3 months-->
+    <asset_interday idt_asset_interday="123456741" num_price="0.0" idt_exchange_asset="1163" num_high="0.0"     num_low="0.0"     num_open="0.0" num_volume="0.0" num_close="0.0"     num_bid="46.39"   num_ask="46.41"   num_change="0.0"   num_pct_change="0.0" dat_interday="dateReplace4"/>
+    <asset_interday idt_asset_interday="123456739" num_price="0.0" idt_exchange_asset="1163" num_high="1266.97" num_low="1266.26" num_open="0.0" num_volume="0.0" num_close="1265.35" num_bid="1266.64" num_ask="1266.82" num_change="-0.06" num_pct_change="0.0" dat_interday="dateReplace5"/>
+    <!--last year-->
+    <asset_interday idt_asset_interday="123456737" num_price="0.0" idt_exchange_asset="1163" num_high="927.3" num_low="927.0" num_open="0.0" num_volume="0.0" num_close="923.5" num_bid="924.9" num_ask="929.1" num_change="0.1" num_pct_change="0.01" dat_interday="dateReplace6"/>
+    <asset_interday idt_asset_interday="123456735" num_price="0.0" idt_exchange_asset="1163" num_high="883.5" num_low="886.5" num_open="0.0" num_volume="0.0" num_close="882.5" num_bid="882.6" num_ask="888.6" num_change="-4.9" num_pct_change="-0.55" dat_interday="dateReplace7"/>
+    <!--more than a year-->
+    <asset_interday idt_asset_interday="123456733" num_price="0.0" idt_exchange_asset="1163" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="46.39" num_ask="46.41" num_change="0.0" num_pct_change="0.0" dat_interday="dateReplace8"/>
+    <!--interday inflation-->
+    <!--last week-->
+    <asset_interday idt_asset_interday="123456729" num_price="1002.16" idt_exchange_asset="1172" num_high="1002.2" num_low="1001.32" num_open="1001.32" num_volume="25607.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="0.86" num_pct_change="0.09" dat_interday="dateReplace0"/>
+    <asset_interday idt_asset_interday="123456727" num_price="1002.57" idt_exchange_asset="1172" num_high="1002.57" num_low="1001.32" num_open="1001.32" num_volume="26416.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="1.27" num_pct_change="0.13" dat_interday="dateReplace1"/>
+    <!--last month-->
+    <asset_interday idt_asset_interday="123456725" num_price="1002.84" idt_exchange_asset="1172" num_high="1002.84" num_low="1001.32" num_open="1001.32" num_volume="28831.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="1.54" num_pct_change="0.15" dat_interday="dateReplace2"/>
+    <asset_interday idt_asset_interday="123456723" num_price="1003.9" idt_exchange_asset="1172" num_high="1003.9" num_low="1001.32" num_open="1001.32" num_volume="38811.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="2.6" num_pct_change="0.26" dat_interday="dateReplace3"/>
+    <!--last 3 months-->
+    <asset_interday idt_asset_interday="123456721" num_price="1002.16" idt_exchange_asset="1172" num_high="1002.2" num_low="1001.32" num_open="1001.32" num_volume="25607.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="0.86" num_pct_change="0.09" dat_interday="dateReplace4"/>
+    <asset_interday idt_asset_interday="123456719" num_price="1002.57" idt_exchange_asset="1172" num_high="1002.57" num_low="1001.32" num_open="1001.32" num_volume="26416.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="1.27" num_pct_change="0.13" dat_interday="dateReplace5"/>
+    <!--last year-->
+    <asset_interday idt_asset_interday="123456717" num_price="1002.84" idt_exchange_asset="1172" num_high="1002.84" num_low="1001.32" num_open="1001.32" num_volume="28831.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="1.54" num_pct_change="0.15" dat_interday="dateReplace6"/>
+    <asset_interday idt_asset_interday="123456715" num_price="1003.9" idt_exchange_asset="1172" num_high="1003.9" num_low="1001.32" num_open="1001.32" num_volume="38811.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="2.6" num_pct_change="0.26" dat_interday="dateReplace7"/>
+    <!--more than a year-->
+    <asset_interday idt_asset_interday="123456713" num_price="1004.13" idt_exchange_asset="1172" num_high="1004.57" num_low="1001.32" num_open="1001.32" num_volume="69452.0" num_close="1001.3" num_bid="0.0" num_ask="0.0" num_change="2.83" num_pct_change="0.28" dat_interday="dateReplace8"/>
+    <!--interday indicators-->
+    <!--last week-->
+    <asset_interday idt_asset_interday="123456709" num_price="112.321" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="112.321" num_ask="112.917" num_change="0.0" num_pct_change="112.32" dat_interday="dateReplace0"/>
+    <asset_interday idt_asset_interday="123456707" num_price="112.321" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="112.321" num_ask="112.917" num_change="0.0" num_pct_change="112.32" dat_interday="dateReplace1"/>
+    <!--last month-->
+    <asset_interday idt_asset_interday="123456705" num_price="112.321" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="112.321" num_ask="112.917" num_change="0.0" num_pct_change="112.32" dat_interday="dateReplace2"/>
+    <asset_interday idt_asset_interday="123456703" num_price="0.042" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="0.042" num_ask="0.0" num_change="0.0" num_pct_change="0.04" dat_interday="dateReplace3"/>
+    <!--last 3 months-->
+    <asset_interday idt_asset_interday="123456701" num_price="10.14" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.14" dat_interday="dateReplace4"/>
+    <asset_interday idt_asset_interday="123456699" num_price="10.15" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.15" dat_interday="dateReplace5"/>
+    <!--last year-->
+    <asset_interday idt_asset_interday="123456697" num_price="10.16" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.16" dat_interday="dateReplace6"/>
+    <asset_interday idt_asset_interday="123456695" num_price="10.17" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.17" dat_interday="dateReplace7"/>
+    <!--more than a year-->
+    <asset_interday idt_asset_interday="123456693" num_price="10.18" idt_exchange_asset="1169" num_high="0.0" num_low="0.0" num_open="0.0" num_volume="0.0" num_close="0.0" num_bid="10.14" num_ask="0.0" num_change="0.0" num_pct_change="10.18" dat_interday="dateReplace8"/>
+
+</dataset>

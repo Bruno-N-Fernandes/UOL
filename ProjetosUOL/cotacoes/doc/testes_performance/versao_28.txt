@@ -1,0 +1,63 @@
+Versão 28
+
+mzp_dferraz@ci-80848-0:~/workspaceuol/cotacoes$ siege -f doc/urls_todas_urls -t 10m -c 50 -v > /tmp/siege.log
+** SIEGE 3.0.8
+** Preparing 50 concurrent users for battle.
+The server is now under siege...
+
+Lifting the server siege...      done.
+
+Transactions:		       78264 hits
+Availability:		       99.75 %
+Elapsed time:		      599.96 secs
+Data transferred:	      367.54 MB
+Response time:		        0.38 secs
+Transaction rate:	      130.45 trans/sec
+Throughput:		        0.61 MB/sec
+Concurrency:		       49.98
+Successful transactions:       78264
+Failed transactions:	         198
+Longest transaction:	        7.55
+Shortest transaction:	        0.01
+
+
+mzp_dferraz@ci-80848-0:~/workspaceuol/cotacoes$ siege -f doc/urls_todas_urls -t 10m -c 50 -v > /tmp/siege.log
+** SIEGE 3.0.8
+** Preparing 50 concurrent users for battle.
+The server is now under siege...
+
+Lifting the server siege...      done.
+
+Transactions:		      114648 hits
+Availability:		       99.92 %
+Elapsed time:		      599.14 secs
+Data transferred:	      536.06 MB
+Response time:		        0.26 secs
+Transaction rate:	      191.35 trans/sec
+Throughput:		        0.89 MB/sec
+Concurrency:		       49.98
+Successful transactions:      114648
+Failed transactions:	          89
+Longest transaction:	        6.26
+Shortest transaction:	        0.01
+
+
+mzp_dferraz@ci-80848-0:~/workspaceuol/cotacoes$ siege -f doc/urls_todas_urls -t 10m -c 50 -v > /tmp/siege.log
+** SIEGE 3.0.8
+** Preparing 50 concurrent users for battle.
+The server is now under siege...
+
+Lifting the server siege...      done.
+
+Transactions:		      114457 hits
+Availability:		       99.96 %
+Elapsed time:		      599.57 secs
+Data transferred:	      545.95 MB
+Response time:		        0.26 secs
+Transaction rate:	      190.90 trans/sec
+Throughput:		        0.91 MB/sec
+Concurrency:		       49.96
+Successful transactions:      114457
+Failed transactions:	          45
+Longest transaction:	        6.52
+Shortest transaction:	        0.01

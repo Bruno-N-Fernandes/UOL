@@ -1,0 +1,9 @@
+# teste de regressao: siege -f /path/to/your/urls.txt
+# simulacao de internet: siege -if /path/to/your/urls.txt -c5 -t1m
+
+# URL format: [protocol://] [servername.domain.xxx] [:portnumber] [/directory/file]
+
+http://nginx.cotacoes.svc.cluster.development.kubernetes.intranet/currency/intraday/list?currency=1&fields=id,name,bidvalue,askvalue,maxbid,minbid,variationbid,variationpercentbid,openbidvalue,date
+http://nginx.cotacoes.svc.cluster.development.kubernetes.intranet/currency/interday/list/week?currency=1&fields=id,name,bidvalue,askvalue,maxbid,minbid,variationbid,variationpercentbid,openbidvalue,date
+http://nginx.cotacoes.svc.cluster.development.kubernetes.intranet/currency/interday/list/month?currency=40&fields=id,name,bidvalue,askvalue,maxbid,minbid,variationbid,variationpercentbid,openbidvalue,date
+http://nginx.cotacoes.svc.cluster.development.kubernetes.intranet/currency/interday/list/year?currency=52&fields=id,name,bidvalue,askvalue,maxbid,minbid,variationbid,variationpercentbid,openbidvalue,date

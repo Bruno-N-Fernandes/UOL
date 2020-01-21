@@ -1,0 +1,12 @@
+Estes testes visaram analisar a diferença entre performance e estabilidade de cada um dos modelos de consulta aplicados
+Diferenças entre versões
+Versão 25 - Utilizando as queries padrões criadas pelo JPA para realizar as consultas
+Versão 26 - Utilizando as queries padrões criadas pelo JPA para realizar as consultas exceto as constultas do currencyinterday por período que utilizaram viewobject
+Versão 27 - Toda a aplicação está utilizando queries customizadas e viewobject para as consulta
+Versão 28 - Alterações da versão 27 mas utilizando caches nos services, apenas com o intuito de analisar a estabilidade da aplicação com cache
+Versão 29 - Utilizando as queries padrões criadas pelo JPA para realizar as consultas exceto as constultas do currencyinterday por período e do currencyintraday dos registros diários que utilizaram viewobject. (As queries foram sempre as que apareceram com maior ocorrencia de tempo nos logs)
+
+A versão 29 acabou sendo a versão mais estabilidade e performance nas consultas.
+Todas as versões se comportam bem até uma média de 100 requisições por segundo, a partir daí todas passam a apresentar problemas.
+Todos estes testes levam em consideração a aplicação rodando em um container com cpu de 256m e ram de 512m
+

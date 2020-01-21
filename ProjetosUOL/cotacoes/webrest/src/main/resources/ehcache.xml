@@ -1,0 +1,183 @@
+<!--TODO: definir melhor as properties de cache-->
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ehcache.xsd">
+	
+    <cache name="CurrencyInterdayService-listCurrenciesByPeriod"
+           maxElementsInMemory="40"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="CurrencyInterdayService-listMostRecentDayCurrenciesBy"
+           maxElementsInMemory="20"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="CurrencyInterdayService-listMostRecentCurrenciesFromPointer"
+           maxElementsInMemory="20"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="CurrencyInterdayService-listMostOlderCurrenciesFromPointer"
+           maxElementsInMemory="20"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="CurrencyInterdayService-findMostRecentCurrencyBy"
+           maxElementsInMemory="20"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="CurrencyIntradayService-findMostRecentCurrencyBy"
+           maxElementsInMemory="20"
+           timeToLiveSeconds="30"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="CurrencyIntradayService-listMostRecentDayCurrenciesBy"
+           maxElementsInMemory="50"
+           timeToLiveSeconds="30"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="CurrencyIntradayService-listMostRecentCurrenciesFromPointer"
+           maxElementsInMemory="30"
+           timeToLiveSeconds="30"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="CurrencyIntradayService-listMostOlderCurrenciesFromPointer"
+           maxElementsInMemory="30"
+           timeToLiveSeconds="30"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="CurrencyService-listCurrencies"
+           maxElementsInMemory="1"
+           timeToLiveSeconds="1200"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>    
+    
+    <cache name="ExchangeAssetService-listAssetsBy"
+           maxElementsInMemory="5"
+           timeToLiveSeconds="1200"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="AssetIntradayService-findMostRecentAssetBy"
+           maxElementsInMemory="50"
+           timeToLiveSeconds="30"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+
+    <cache name="AssetIntradayService-findMostTradedAssetsBy"
+           maxElementsInMemory="50"
+           timeToLiveSeconds="30"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+
+    <cache name="AssetIntradayService-findMostVariedAssetsBy"
+           maxElementsInMemory="50"
+           timeToLiveSeconds="30"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+
+    <cache name="AssetIntradayService-findLowerVariedAssetsBy"
+           maxElementsInMemory="50"
+           timeToLiveSeconds="30"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="AssetIntradayService-listMostRecentDayAssetsBy"
+           maxElementsInMemory="70"
+           timeToLiveSeconds="30"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="AssetIntradayService-listMostRecentAssetsFromPointer"
+           maxElementsInMemory="50"
+           timeToLiveSeconds="30"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="AssetIntradayService-listMostOlderAssetsFromPointer"
+           maxElementsInMemory="50"
+           timeToLiveSeconds="30"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    
+    <cache name="AssetInterdayService-listAssetsByPeriod"
+           maxElementsInMemory="40"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="AssetInterdayService-listMostRecentDayAssetsBy"
+           maxElementsInMemory="20"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="AssetInterdayService-listMostRecentAssetsFromPointer"
+           maxElementsInMemory="20"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="AssetInterdayService-listMostOlderAssetsFromPointer"
+           maxElementsInMemory="20"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+    <cache name="AssetInterdayService-findMostRecentAssetBy"
+           maxElementsInMemory="20"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           diskPersistent="false">
+    </cache>
+    
+
+    
+
+    <diskStore path="java.io.tmpdir"/>
+
+    <defaultCache
+            maxElementsInMemory="10000"
+            eternal="false"
+            timeToIdleSeconds="120"
+            timeToLiveSeconds="120"
+            overflowToDisk="false"
+            diskPersistent="false"
+            maxElementsOnDisk="10000000"            
+            diskExpiryThreadIntervalSeconds="120"
+            memoryStoreEvictionPolicy="LRU"
+    />
+
+</ehcache>
